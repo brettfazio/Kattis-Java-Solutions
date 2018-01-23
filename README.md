@@ -1,4 +1,4 @@
-# Kattis Java Solutoins
+# Kattis Java Solutions
 
 Solutions to open.kattis.com problems in Java.
 
