@@ -8,6 +8,9 @@ EX: if the problem was called "purple" there would be a purple.java and it would
 
 
 Brett Fazio
+
 Lior Barak
+
 Daniel West
+
 Alex Rutledge
