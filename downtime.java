@@ -1,3 +1,5 @@
+// Brett Fazio
+
 import java.util.Scanner;
 
 public class downtime {
