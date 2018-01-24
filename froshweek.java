@@ -1,3 +1,4 @@
+//Daniel West
 import java.util.Arrays;
 import java.util.Scanner;
 public class froshweek {
