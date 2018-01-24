@@ -1,3 +1,4 @@
+//Daniel West
 import java.util.Scanner;
 public class sumoftheothers {
 	public static void main(String[] args) {
