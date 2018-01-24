@@ -1,3 +1,4 @@
+//Daniel West
 import java.util.Scanner;
 public class coldputerscience {
 	public static void main(String[] args){
