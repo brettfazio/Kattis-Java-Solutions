@@ -1,3 +1,4 @@
+//Daniel West
 import java.util.Scanner;
 public class waronweather{
     static double[] x, y, z, xx, yy, zz;
