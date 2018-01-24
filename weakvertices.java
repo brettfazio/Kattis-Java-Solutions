@@ -1,3 +1,4 @@
+//Daniel West
 import java.util.Scanner;
 public class weakvertices {
 	public static void main(String[] args) {
