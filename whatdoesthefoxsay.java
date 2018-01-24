@@ -3,7 +3,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class whatDoesTheFoxSay {
+public class whatdoesthefoxsay {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
