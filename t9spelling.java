@@ -1,3 +1,4 @@
+//Daniel West
 import java.util.Scanner;
 public class t9spelling {
 	static String[] nums = {" ", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
