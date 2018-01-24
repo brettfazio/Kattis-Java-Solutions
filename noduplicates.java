@@ -1,3 +1,4 @@
+//Daniel West
 import java.util.Scanner;
 import java.util.TreeSet;
 public class noduplicates {
