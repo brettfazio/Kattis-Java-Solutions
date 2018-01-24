@@ -1,3 +1,4 @@
+//Daniel West
 import java.util.Scanner;
 public class treasurehunt {
 	public static void main(String[] args) {
