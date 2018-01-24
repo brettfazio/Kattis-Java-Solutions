@@ -20,11 +20,7 @@ public class candydivision {
             
             if (in % (i+1) == 0) {
                 set.add((long)i);
-//              System.out.println(in / (i+1));
-//              System.out.println(in / (i+1)-1);
                 set.add((long) (in / (i+1)-1));
-//              System.out.println(in / i);
-//              System.out.println(in / (i) -1);
             }
             
         }
