@@ -1,3 +1,4 @@
+//Daniel West
 import java.util.Scanner;
 public class heliocentric {
 	public static void main(String[] args) {
